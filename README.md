@@ -5,6 +5,7 @@ A l'Accueil on aura une brève objectif de l'alimentation,un bouton CTA et une i
 A la section Apropos on aura une petite description de l'alimentation et du restaurant et en suite dans la section Nos menus on aura les différentes menus et les produits de l'alimentation et en fin une section pour le Contact qui vas permettre aux visiteurs de contacter l'etablissement
 Au pied de page on un champ pour les inscriptions de newsletter et les liens vers les pages des réseaux sociaux. 
 
+# Réaliser par : 
 OUEDDO KRIGA OKIM
 MOUSSA AHMAT HAMOUR
 ABDELDJELIL MOUSSA AHMAT
